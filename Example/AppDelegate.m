@@ -16,6 +16,7 @@
 @synthesize viewController = _viewController;
 
 /*
+ * Changed text
  */
 
 - (void)dealloc
